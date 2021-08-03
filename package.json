@@ -4,7 +4,7 @@
   "description": "Chart.js plugin for doughnut chart to display lines of text in the center",
   "repository": {
     "type": "git",
-    "url": "https://github.com/alexkuc/chartjs-plugin-doughnutlabel-rebourne.git"
+    "url": "https://github.com/MantasS0/chartjs-plugin-doughnutlabel-rebourne.git"
   },
   "license": "MIT",
   "author": "ciprianciurea",
